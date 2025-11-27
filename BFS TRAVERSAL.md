@@ -1,4 +1,4 @@
-# Experiment 11(b): BFS Traversal
+# Experiment 17b: BFS Traversal
 
 ## Aim
 To write a Python program to print the BFS (Breadth-First Search) traversal from a given source vertex in a graph.

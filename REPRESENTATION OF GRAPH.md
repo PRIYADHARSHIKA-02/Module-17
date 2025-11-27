@@ -1,4 +1,4 @@
-# Experiment 11(a): Representation of Graph
+# Experiment 17(d): Representation of Graph
 
 ## Aim
 To write a Python program to generate a graph for a given fixed degree sequence.

@@ -1,4 +1,4 @@
-# Experiment 11(c): DFS Traversal
+# Experiment 17(c): DFS Traversal
 
 ## Aim
 To write a Python program to print DFS (Depth-First Search) traversal from a given source vertex in a graph.

@@ -1,5 +1,5 @@
 
-# Experiment 11(e): Adjacency List Representation of a Graph
+# Experiment 17a: Adjacency List Representation of a Graph
 
 ## Aim
 To write a Python program to demonstrate the adjacency list representation of a given graph.
